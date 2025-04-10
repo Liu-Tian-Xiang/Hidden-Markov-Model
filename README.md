@@ -1,3 +1,3 @@
 # Hidden-Markov-Model
 
-Prototype of Hidden Markov learning code
+Prototype code for learning a Hidden Markov model.
