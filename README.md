@@ -1,3 +1,3 @@
 # Hidden-Markov-Model
 
-Prototype code for learning a Hidden Markov model.
+Prototype code for training a Hidden Markov Model with GPU-accelerated vector summation.
